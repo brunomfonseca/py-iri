@@ -1,3 +1,6 @@
-print("OK!")
+
+
+string="OK!"
+print(string)
 #comment to compare merge
 
